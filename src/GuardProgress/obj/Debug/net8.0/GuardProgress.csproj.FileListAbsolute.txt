@@ -1,0 +1,14 @@
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Debug/net8.0/GuardProgress
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Debug/net8.0/GuardProgress.deps.json
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Debug/net8.0/GuardProgress.runtimeconfig.json
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Debug/net8.0/GuardProgress.dll
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Debug/net8.0/GuardProgress.pdb
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Debug/net8.0/GuardProgress.GeneratedMSBuildEditorConfig.editorconfig
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Debug/net8.0/GuardProgress.AssemblyInfoInputs.cache
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Debug/net8.0/GuardProgress.AssemblyInfo.cs
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Debug/net8.0/GuardProgress.csproj.CoreCompileInputs.cache
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Debug/net8.0/GuardProgress.dll
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Debug/net8.0/refint/GuardProgress.dll
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Debug/net8.0/GuardProgress.pdb
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Debug/net8.0/GuardProgress.genruntimeconfig.cache
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Debug/net8.0/ref/GuardProgress.dll

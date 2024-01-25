@@ -1,0 +1,14 @@
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Release/net8.0/win-x64/GuardProgress.exe
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Release/net8.0/win-x64/GuardProgress.deps.json
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Release/net8.0/win-x64/GuardProgress.runtimeconfig.json
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Release/net8.0/win-x64/GuardProgress.dll
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Release/net8.0/win-x64/GuardProgress.pdb
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Release/net8.0/win-x64/GuardProgress.GeneratedMSBuildEditorConfig.editorconfig
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Release/net8.0/win-x64/GuardProgress.AssemblyInfoInputs.cache
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Release/net8.0/win-x64/GuardProgress.AssemblyInfo.cs
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Release/net8.0/win-x64/GuardProgress.csproj.CoreCompileInputs.cache
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Release/net8.0/win-x64/GuardProgress.dll
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Release/net8.0/win-x64/refint/GuardProgress.dll
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Release/net8.0/win-x64/GuardProgress.pdb
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Release/net8.0/win-x64/GuardProgress.genruntimeconfig.cache
+/Users/the/project/GuardProgress/src/GuardProgress/obj/Release/net8.0/win-x64/ref/GuardProgress.dll

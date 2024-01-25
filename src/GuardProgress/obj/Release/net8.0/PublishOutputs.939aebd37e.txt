@@ -1,0 +1,5 @@
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Release/net8.0/publish/GuardProgress
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Release/net8.0/publish/GuardProgress.dll
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Release/net8.0/publish/GuardProgress.deps.json
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Release/net8.0/publish/GuardProgress.runtimeconfig.json
+/Users/the/project/GuardProgress/src/GuardProgress/bin/Release/net8.0/publish/GuardProgress.pdb

@@ -1,0 +1,7 @@
+{
+    "TargetProcessName": "",
+    "CheckIntervalMilliseconds": 5000,
+    "SavePaths": [],
+    "ExtractPath": "",
+    "ZipName":"GameSave.zip"
+}
